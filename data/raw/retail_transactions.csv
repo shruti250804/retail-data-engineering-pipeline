@@ -1,0 +1,157 @@
+order_line_id,order_id,order_date,customer_id,customer_name,customer_email,product_id,product_name,category,city,customer_type,quantity,unit_price,discount,unit_cost
+LINE00001,ORD00001,2026-09-02,C011,Arjun Mehta,arjun@example.com,P103,Desk Lamp,Home,Ahmedabad,Small Business,4,649.0,0.05,350.0
+LINE00002,ORD00001,2025-10-07,C006,Anaya Rao,anaya@example.com,P101,USB-C Cable,Electronics,Bengaluru,Consumer,6,249.0,0.2,95.0
+LINE00003,ORD00002,2025-08-18,C008,Sara Khan,sara@example.com,P103,Desk Lamp,Home,Hyderabad,Consumer,4,649.0,0.1,350.0
+LINE00004,ORD00002,2025-12-02,C005,Ishaan Patel,ishaan@example.com,P105,Yoga Mat,Fitness,Mumbai,Corporate,5,549.0,0.15,270.0
+LINE00005,ORD00003,2026-09-02,C007,Reyansh Das,reyansh@example.com,P107,Ball Pen Set,Stationery,Kolkata,Small Business,6,99.0,0,32.0
+LINE00006,ORD00003,2026-01-23,C009,Vivaan Joshi,vivaan@example.com,P107,Ball Pen Set,Stationery,Noida,Corporate,2,99.0,0.15,32.0
+LINE00007,ORD00004,2026-04-20,C007,Reyansh Das,reyansh@example.com,P103,Desk Lamp,home,Kolkata,Small Business,5,649.0,0.1,350.0
+LINE00008,ORD00004,2026-09-13,C011,Arjun Mehta,arjun@example.com,P105,Yoga Mat,Fitness,Ahmedabad,Small Business,5,549.0,0.15,270.0
+LINE00009,ORD00005,2025-10-05,C006,Anaya Rao,anaya@example.com,P105,Yoga Mat,Fitness,bengaluru,Consumer,4,549.0,0.15,270.0
+LINE00010,ORD00005,2026-03-02,C002,Diya Verma,diya@example.com,P103,Desk Lamp,Home,Delhi,Corporate,5,649.0,0.2,350.0
+LINE00011,ORD00006,2026-02-07,C011,Arjun Mehta,ARJUN@EXAMPLE.COM,P105,Yoga Mat,Fitness,Ahmedabad,Small Business,5,549.0,0.15,270.0
+LINE00012,ORD00006,2026-08-08,C011,Arjun Mehta,arjun@example.com,P101,USB-C Cable,Electronics,Ahmedabad,Small Business,4,249.0,0,95.0
+LINE00013,ORD00007,2026-05-12,C002,Diya Verma,diya@example.com,P106,Resistance Bands,Fitness,Delhi,Corporate,1,299.0,0.15,120.0
+LINE00014,ORD00007,2025-07-16,C007,Reyansh Das,reyansh@example.com,P103,Desk Lamp,home,Kolkata,Small Business,5,649.0,0.1,350.0
+LINE00015,ORD00008,2025-08-12,C011,Arjun Mehta,arjun@example.com,P105,Yoga Mat,Fitness,Ahmedabad,Small Business,3,549.0,0.05,270.0
+LINE00016,ORD00008,2025-07-03,C006,Anaya Rao,anaya@example.com,P100,Wireless Mouse,Electronics,Bengaluru,Consumer,4,799.0,0.1,420.0
+LINE00017,ORD00009,2025-10-11,C009,Vivaan Joshi,vivaan@example.com,P101,USB-C Cable,Electronics,Noida,Corporate,3,249.0,0.2,95.0
+LINE00018,ORD00009,2025-08-30,C009,Vivaan Joshi,vivaan@example.com,P101,USB-C Cable,Electronics,noida,Corporate,6,249.0,0.05,95.0
+LINE00019,ORD00010,2025-10-29,C010,Myra Kapoor,myra@example.com,P106,Resistance Bands,Fitness,Chandigarh,Consumer,3,299.0,0,120.0
+LINE00020,ORD00010,2026-07-10,C002,Diya Verma,diya@example.com,P106,Resistance Bands,Fitness,Delhi,Corporate,3,299.0,0.1,120.0
+LINE00021,ORD00011,2025-10-14,C004,Meera Gupta,meera@example.com,P105,Yoga Mat,fitness,Pune,Small Business,2,549.0,0.1,270.0
+LINE00022,ORD00011,2026-03-07,C007,Reyansh Das,REYANSH@EXAMPLE.COM,P103,Desk Lamp,Home,Kolkata,Small Business,4,649.0,0,350.0
+LINE00023,ORD00012,2026-07-11,C003,Kabir Singh,kabir@example.com,P100,Wireless Mouse,Electronics,Jaipur,Consumer,3,799.0,0.2,420.0
+LINE00024,ORD00012,2026-08-21,C008,Sara Khan,sara@example.com,P102,Notebook Pack,Stationery,Hyderabad,Consumer,6,159.0,0.1,72.0
+LINE00025,ORD00013,2025-09-16,C011,Arjun Mehta,arjun@example.com,P100,Wireless Mouse,Electronics,Ahmedabad,Small Business,6,799.0,0.2,420.0
+LINE00026,ORD00013,2026-05-10,C003,Kabir Singh,kabir@example.com,P105,Yoga Mat,Fitness,Jaipur,Consumer,4,549.0,0.2,270.0
+LINE00027,ORD00014,2026-03-17,C008,Sara Khan,sara@example.com,P103,Desk Lamp,Home,hyderabad,Consumer,5,649.0,0.2,350.0
+LINE00028,ORD00014,2025-07-01,C005,Ishaan Patel,ishaan@example.com,P101,USB-C Cable,electronics,Mumbai,Corporate,5,249.0,0.2,95.0
+LINE00029,ORD00015,2026-06-08,C002,Diya Verma,diya@example.com,P104,Steel Bottle,Home,Delhi,Corporate,2,399.0,0.05,180.0
+LINE00030,ORD00015,2026-02-13,C008,Sara Khan,sara@example.com,P106,Resistance Bands,Fitness,Hyderabad,Consumer,5,299.0,0.15,120.0
+LINE00031,ORD00016,2025-07-31,C001,Aarav Sharma,aarav@example.com,P106,Resistance Bands,Fitness,Chandigarh,Consumer,4,299.0,0.15,120.0
+LINE00032,ORD00016,2025-08-23,C004,Meera Gupta,meera@example.com,P100,Wireless Mouse,Electronics,Pune,Small Business,4,799.0,0.15,420.0
+LINE00033,ORD00017,2026-02-10,C010,Myra Kapoor,MYRA@EXAMPLE.COM,P101,USB-C Cable,Electronics,Chandigarh,Consumer,6,249.0,0.1,95.0
+LINE00034,ORD00017,2026-03-21,C004,Meera Gupta,meera@example.com,P105,Yoga Mat,Fitness,Pune,Small Business,5,549.0,0.05,270.0
+LINE00035,ORD00018,2025-10-26,C012,Kiara Nair,kiara@example.com,P102,Notebook Pack,stationery,Chennai,Corporate,5,159.0,0.15,72.0
+LINE00036,ORD00018,2025-11-15,C009,Vivaan Joshi,vivaan@example.com,P107,Ball Pen Set,Stationery,noida,Corporate,3,99.0,0.2,32.0
+LINE00037,ORD00019,2025-07-04,C003,Kabir Singh,kabir@example.com,P101,USB-C Cable,Electronics,Jaipur,Consumer,2,249.0,0.1,95.0
+LINE00038,ORD00019,2026-01-18,C006,Anaya Rao,anaya@example.com,P105,Yoga Mat,Fitness,Bengaluru,Consumer,2,549.0,0,270.0
+LINE00039,ORD00020,2025-09-12,C012,Kiara Nair,kiara@example.com,P107,Ball Pen Set,Stationery,Chennai,Corporate,6,99.0,0.2,32.0
+LINE00040,ORD00020,2026-04-14,C009,Vivaan Joshi,vivaan@example.com,P106,Resistance Bands,Fitness,Noida,Corporate,4,299.0,0.1,120.0
+LINE00041,ORD00021,2025-07-14,C005,Ishaan Patel,ishaan@example.com,P103,Desk Lamp,Home,Mumbai,Corporate,2,649.0,0,350.0
+LINE00042,ORD00021,2026-08-31,C004,Meera Gupta,meera@example.com,P100,Wireless Mouse,electronics,Pune,Small Business,1,799.0,0.15,420.0
+LINE00043,ORD00022,2026-08-27,C011,Arjun Mehta,arjun@example.com,P101,USB-C Cable,Electronics,Ahmedabad,Small Business,2,249.0,0.05,95.0
+LINE00044,ORD00022,2025-09-18,C002,Diya Verma,DIYA@EXAMPLE.COM,P105,Yoga Mat,Fitness,Delhi,Corporate,3,549.0,0.15,270.0
+LINE00045,ORD00023,2025-08-23,C005,Ishaan Patel,ishaan@example.com,P106,Resistance Bands,Fitness,mumbai,Corporate,3,299.0,0,120.0
+LINE00046,ORD00023,2026-08-19,C009,Vivaan Joshi,vivaan@example.com,P103,Desk Lamp,Home,Noida,Corporate,5,649.0,0.05,350.0
+LINE00047,ORD00024,2026-04-18,C004,Meera Gupta,meera@example.com,P104,Steel Bottle,Home,Pune,Small Business,4,399.0,0.05,180.0
+LINE00048,ORD00024,2025-08-23,C003,Kabir Singh,kabir@example.com,P107,Ball Pen Set,Stationery,Jaipur,Consumer,5,99.0,0.05,32.0
+LINE00049,ORD00025,2026-05-03,C004,Meera Gupta,meera@example.com,P103,Desk Lamp,home,Pune,Small Business,1,649.0,0.2,350.0
+LINE00050,ORD00025,2025-12-25,C001,Aarav Sharma,aarav@example.com,P102,Notebook Pack,Stationery,Chandigarh,Consumer,6,159.0,0.1,72.0
+LINE00051,ORD00026,2026-04-10,C005,Ishaan Patel,ishaan@example.com,P107,Ball Pen Set,Stationery,Mumbai,Corporate,2,99.0,0.15,32.0
+LINE00052,ORD00026,2026-03-06,C010,Myra Kapoor,myra@example.com,P101,USB-C Cable,Electronics,Chandigarh,Consumer,6,249.0,0,95.0
+LINE00053,ORD00027,2025-12-26,C007,Reyansh Das,reyansh@example.com,P102,Notebook Pack,Stationery,Kolkata,Small Business,4,159.0,0.1,72.0
+LINE00054,ORD00027,2026-09-21,C004,Meera Gupta,meera@example.com,P102,Notebook Pack,Stationery,pune,Small Business,3,159.0,0.15,72.0
+LINE00055,ORD00028,2026-05-03,C001,Aarav Sharma,AARAV@EXAMPLE.COM,P107,Ball Pen Set,Stationery,Chandigarh,Consumer,5,99.0,0.05,32.0
+LINE00056,ORD00028,2025-12-02,C010,Myra Kapoor,myra@example.com,P100,Wireless Mouse,electronics,Chandigarh,Consumer,5,799.0,0,420.0
+LINE00057,ORD00029,2026-05-08,C006,Anaya Rao,anaya@example.com,P105,Yoga Mat,Fitness,Bengaluru,Consumer,2,549.0,0,270.0
+LINE00058,ORD00029,2026-03-10,C011,Arjun Mehta,arjun@example.com,P104,Steel Bottle,Home,Ahmedabad,Small Business,1,399.0,0.05,180.0
+LINE00059,ORD00030,2025-08-27,C007,Reyansh Das,reyansh@example.com,P105,Yoga Mat,Fitness,Kolkata,Small Business,3,549.0,0.05,270.0
+LINE00060,ORD00030,2026-05-13,C009,Vivaan Joshi,vivaan@example.com,P100,Wireless Mouse,Electronics,Noida,Corporate,2,799.0,0.05,420.0
+LINE00061,ORD00031,2026-04-26,C011,Arjun Mehta,arjun@example.com,P105,Yoga Mat,Fitness,Ahmedabad,Small Business,3,549.0,0.15,270.0
+LINE00062,ORD00031,2026-07-21,C012,Kiara Nair,kiara@example.com,P104,Steel Bottle,Home,Chennai,Corporate,6,399.0,0.1,180.0
+LINE00063,ORD00032,2026-08-30,C011,Arjun Mehta,arjun@example.com,P100,Wireless Mouse,electronics,ahmedabad,Small Business,6,799.0,0,420.0
+LINE00064,ORD00032,2025-11-29,C009,Vivaan Joshi,vivaan@example.com,P106,Resistance Bands,Fitness,Noida,Corporate,6,299.0,0,120.0
+LINE00065,ORD00033,2026-04-28,C008,Sara Khan,sara@example.com,P105,Yoga Mat,Fitness,Hyderabad,Consumer,5,549.0,0.05,270.0
+LINE00066,ORD00033,2026-04-30,C003,Kabir Singh,KABIR@EXAMPLE.COM,P104,Steel Bottle,Home,Jaipur,Consumer,4,399.0,0,180.0
+LINE00067,ORD00034,2026-04-30,C007,Reyansh Das,reyansh@example.com,P106,Resistance Bands,Fitness,Kolkata,Small Business,5,299.0,0.2,120.0
+LINE00068,ORD00034,2025-12-23,C007,Reyansh Das,reyansh@example.com,P106,Resistance Bands,Fitness,Kolkata,Small Business,1,299.0,0.2,120.0
+LINE00069,ORD00035,2025-10-20,C003,Kabir Singh,kabir@example.com,P106,Resistance Bands,Fitness,Jaipur,Consumer,6,299.0,0.05,120.0
+LINE00070,ORD00035,2026-04-03,C005,Ishaan Patel,ishaan@example.com,P100,Wireless Mouse,electronics,Mumbai,Corporate,1,799.0,0.1,420.0
+LINE00071,ORD00036,2026-06-10,C009,Vivaan Joshi,vivaan@example.com,P105,Yoga Mat,Fitness,Noida,Corporate,1,549.0,0.2,270.0
+LINE00072,ORD00036,2026-07-14,C001,Aarav Sharma,aarav@example.com,P100,Wireless Mouse,Electronics,chandigarh,Consumer,5,799.0,0.2,420.0
+LINE00073,ORD00037,2026-01-06,C009,Vivaan Joshi,vivaan@example.com,P101,USB-C Cable,Electronics,Noida,Corporate,3,249.0,0.1,95.0
+LINE00074,ORD00037,2026-07-20,C010,Myra Kapoor,myra@example.com,P104,Steel Bottle,Home,Chandigarh,Consumer,1,399.0,0.1,180.0
+LINE00075,ORD00038,2026-08-25,C010,Myra Kapoor,myra@example.com,P106,Resistance Bands,Fitness,Chandigarh,Consumer,1,299.0,0.15,120.0
+LINE00076,ORD00038,2026-09-14,C008,Sara Khan,sara@example.com,P107,Ball Pen Set,Stationery,Hyderabad,Consumer,6,99.0,0.15,32.0
+LINE00077,ORD00039,2025-10-20,C002,Diya Verma,DIYA@EXAMPLE.COM,P103,Desk Lamp,home,Delhi,Corporate,4,649.0,0.1,350.0
+LINE00078,ORD00039,2026-05-03,C001,Aarav Sharma,aarav@example.com,P103,Desk Lamp,Home,Chandigarh,Consumer,1,649.0,0,350.0
+LINE00079,ORD00040,2025-11-06,C001,Aarav Sharma,aarav@example.com,P102,Notebook Pack,Stationery,Chandigarh,Consumer,1,159.0,0.1,72.0
+LINE00080,ORD00040,2026-04-28,C005,Ishaan Patel,ishaan@example.com,P103,Desk Lamp,Home,Mumbai,Corporate,5,649.0,0.15,350.0
+LINE00081,ORD00041,2026-07-03,C003,Kabir Singh,kabir@example.com,P106,Resistance Bands,Fitness,jaipur,Consumer,4,299.0,0.1,120.0
+LINE00082,ORD00041,2026-03-14,C009,Vivaan Joshi,vivaan@example.com,P105,Yoga Mat,Fitness,Noida,Corporate,2,549.0,0.2,270.0
+LINE00083,ORD00042,2026-09-02,C012,Kiara Nair,kiara@example.com,P105,Yoga Mat,Fitness,Chennai,Corporate,1,549.0,0.05,270.0
+LINE00084,ORD00042,2025-10-16,C002,Diya Verma,diya@example.com,P106,Resistance Bands,fitness,Delhi,Corporate,1,299.0,0.1,120.0
+LINE00085,ORD00043,2025-08-03,C003,Kabir Singh,kabir@example.com,P102,Notebook Pack,Stationery,Jaipur,Consumer,3,159.0,0.2,72.0
+LINE00086,ORD00043,2025-08-02,C010,Myra Kapoor,myra@example.com,P101,USB-C Cable,Electronics,Chandigarh,Consumer,3,249.0,0.2,95.0
+LINE00087,ORD00044,2025-09-04,C011,Arjun Mehta,arjun@example.com,P100,Wireless Mouse,Electronics,Ahmedabad,Small Business,1,799.0,0.15,420.0
+LINE00088,ORD00044,2026-08-16,C002,Diya Verma,DIYA@EXAMPLE.COM,P102,Notebook Pack,Stationery,Delhi,Corporate,4,159.0,0.15,72.0
+LINE00089,ORD00045,2026-05-07,C003,Kabir Singh,kabir@example.com,P101,USB-C Cable,Electronics,Jaipur,Consumer,3,249.0,0.2,95.0
+LINE00090,ORD00045,2026-01-03,C001,Aarav Sharma,aarav@example.com,P100,Wireless Mouse,Electronics,chandigarh,Consumer,6,799.0,0,420.0
+LINE00091,ORD00046,2026-06-23,C010,Myra Kapoor,myra@example.com,P101,USB-C Cable,electronics,Chandigarh,Consumer,2,249.0,0,95.0
+LINE00092,ORD00046,2026-04-01,C010,Myra Kapoor,myra@example.com,P105,Yoga Mat,Fitness,Chandigarh,Consumer,3,549.0,0.15,270.0
+LINE00093,ORD00047,2026-07-24,C007,Reyansh Das,reyansh@example.com,P107,Ball Pen Set,Stationery,Kolkata,Small Business,6,99.0,0.2,32.0
+LINE00094,ORD00047,2025-12-05,C010,Myra Kapoor,myra@example.com,P101,USB-C Cable,Electronics,Chandigarh,Consumer,2,249.0,0.15,95.0
+LINE00095,ORD00048,2025-10-07,C007,Reyansh Das,reyansh@example.com,P102,Notebook Pack,Stationery,Kolkata,Small Business,3,159.0,0,72.0
+LINE00096,ORD00048,2026-06-29,C012,Kiara Nair,kiara@example.com,P106,Resistance Bands,Fitness,Chennai,Corporate,5,299.0,0.05,120.0
+LINE00097,ORD00049,2026-09-15,C007,Reyansh Das,reyansh@example.com,P104,Steel Bottle,Home,Kolkata,Small Business,6,399.0,0.1,180.0
+LINE00098,ORD00049,2025-10-26,C005,Ishaan Patel,ishaan@example.com,P100,Wireless Mouse,electronics,Mumbai,Corporate,4,799.0,0.15,420.0
+LINE00099,ORD00050,2026-06-02,C003,Kabir Singh,KABIR@EXAMPLE.COM,P105,Yoga Mat,Fitness,jaipur,Consumer,5,549.0,0.1,270.0
+LINE00100,ORD00050,2026-08-19,C010,Myra Kapoor,myra@example.com,P104,Steel Bottle,Home,Chandigarh,Consumer,6,399.0,0.2,180.0
+LINE00101,ORD00051,2025-10-08,C009,Vivaan Joshi,vivaan@example.com,P104,Steel Bottle,Home,Noida,Corporate,2,399.0,0.2,180.0
+LINE00102,ORD00051,2026-07-14,C011,Arjun Mehta,arjun@example.com,P107,Ball Pen Set,Stationery,Ahmedabad,Small Business,2,99.0,0.2,32.0
+LINE00103,ORD00052,2026-03-20,C006,Anaya Rao,anaya@example.com,P104,Steel Bottle,Home,Bengaluru,Consumer,4,399.0,0,180.0
+LINE00104,ORD00052,2026-01-16,C006,Anaya Rao,anaya@example.com,P103,Desk Lamp,Home,Bengaluru,Consumer,6,649.0,0.15,350.0
+LINE00105,ORD00053,2026-09-05,C004,Meera Gupta,meera@example.com,P102,Notebook Pack,stationery,Pune,Small Business,6,159.0,0.1,72.0
+LINE00106,ORD00053,2025-08-04,C010,Myra Kapoor,myra@example.com,P103,Desk Lamp,Home,Chandigarh,Consumer,4,649.0,0.15,350.0
+LINE00107,ORD00054,2025-09-15,C012,Kiara Nair,kiara@example.com,P103,Desk Lamp,Home,Chennai,Corporate,3,649.0,0.15,350.0
+LINE00108,ORD00054,2026-05-29,C009,Vivaan Joshi,vivaan@example.com,P104,Steel Bottle,Home,noida,Corporate,4,399.0,0.15,180.0
+LINE00109,ORD00055,2026-06-03,C005,Ishaan Patel,ishaan@example.com,P100,Wireless Mouse,Electronics,Mumbai,Corporate,2,799.0,0.15,420.0
+LINE00110,ORD00055,2025-09-26,C007,Reyansh Das,REYANSH@EXAMPLE.COM,P102,Notebook Pack,Stationery,Kolkata,Small Business,4,159.0,0.1,72.0
+LINE00111,ORD00056,2026-03-22,C003,Kabir Singh,kabir@example.com,P100,Wireless Mouse,Electronics,Jaipur,Consumer,3,799.0,0,420.0
+LINE00112,ORD00056,2026-02-04,C011,Arjun Mehta,arjun@example.com,P106,Resistance Bands,fitness,Ahmedabad,Small Business,2,299.0,0,120.0
+LINE00113,ORD00057,2025-08-06,C012,Kiara Nair,kiara@example.com,P104,Steel Bottle,Home,Chennai,Corporate,4,399.0,0.2,180.0
+LINE00114,ORD00057,2026-03-21,C002,Diya Verma,diya@example.com,P101,USB-C Cable,Electronics,Delhi,Corporate,6,249.0,0.1,95.0
+LINE00115,ORD00058,2026-03-08,C007,Reyansh Das,reyansh@example.com,P107,Ball Pen Set,Stationery,Kolkata,Small Business,1,99.0,0.1,32.0
+LINE00116,ORD00058,2026-05-10,C012,Kiara Nair,kiara@example.com,P100,Wireless Mouse,Electronics,Chennai,Corporate,1,799.0,0.05,420.0
+LINE00117,ORD00059,2025-07-26,C003,Kabir Singh,kabir@example.com,P100,Wireless Mouse,Electronics,jaipur,Consumer,4,799.0,0,420.0
+LINE00118,ORD00059,2025-10-11,C004,Meera Gupta,meera@example.com,P102,Notebook Pack,Stationery,Pune,Small Business,3,159.0,0.1,72.0
+LINE00119,ORD00060,2025-07-18,C007,Reyansh Das,reyansh@example.com,P101,USB-C Cable,electronics,Kolkata,Small Business,5,249.0,0.2,95.0
+LINE00120,ORD00060,2026-08-16,C010,Myra Kapoor,myra@example.com,P105,Yoga Mat,Fitness,Chandigarh,Consumer,3,549.0,0.05,270.0
+LINE00121,ORD00061,2026-09-18,C003,Kabir Singh,KABIR@EXAMPLE.COM,P100,Wireless Mouse,Electronics,Jaipur,Consumer,6,799.0,0.05,420.0
+LINE00122,ORD00061,2026-06-10,C001,Aarav Sharma,aarav@example.com,P104,Steel Bottle,Home,Chandigarh,Consumer,3,399.0,0.1,180.0
+LINE00123,ORD00062,2025-11-28,C009,Vivaan Joshi,vivaan@example.com,P100,Wireless Mouse,Electronics,Noida,Corporate,3,799.0,0.1,420.0
+LINE00124,ORD00062,2025-10-10,C011,Arjun Mehta,arjun@example.com,P100,Wireless Mouse,Electronics,Ahmedabad,Small Business,6,799.0,0,420.0
+LINE00125,ORD00063,2025-07-03,C001,Aarav Sharma,aarav@example.com,P101,USB-C Cable,Electronics,Chandigarh,Consumer,2,249.0,0.05,95.0
+LINE00126,ORD00063,2026-06-19,C005,Ishaan Patel,ishaan@example.com,P100,Wireless Mouse,electronics,mumbai,Corporate,2,799.0,0.15,420.0
+LINE00127,ORD00064,2026-08-14,C007,Reyansh Das,reyansh@example.com,P101,USB-C Cable,Electronics,Kolkata,Small Business,6,249.0,0.2,95.0
+LINE00128,ORD00064,2026-02-21,C010,Myra Kapoor,myra@example.com,P106,Resistance Bands,Fitness,Chandigarh,Consumer,6,299.0,0.2,120.0
+LINE00129,ORD00065,2026-02-14,C005,Ishaan Patel,ishaan@example.com,P107,Ball Pen Set,Stationery,Mumbai,Corporate,5,99.0,0.2,32.0
+LINE00130,ORD00065,2025-12-04,C009,Vivaan Joshi,vivaan@example.com,P107,Ball Pen Set,Stationery,Noida,Corporate,1,99.0,0.1,32.0
+LINE00131,ORD00066,2026-03-28,C002,Diya Verma,diya@example.com,P102,Notebook Pack,Stationery,Delhi,Corporate,1,159.0,0.15,72.0
+LINE00132,ORD00066,2025-11-17,C009,Vivaan Joshi,VIVAAN@EXAMPLE.COM,P103,Desk Lamp,Home,Noida,Corporate,6,649.0,0,350.0
+LINE00133,ORD00067,2025-08-29,C006,Anaya Rao,anaya@example.com,P100,Wireless Mouse,electronics,Bengaluru,Consumer,2,799.0,0.2,420.0
+LINE00134,ORD00067,2026-06-08,C002,Diya Verma,diya@example.com,P101,USB-C Cable,Electronics,Delhi,Corporate,4,249.0,0.2,95.0
+LINE00135,ORD00068,2026-06-15,C010,Myra Kapoor,myra@example.com,P106,Resistance Bands,Fitness,chandigarh,Consumer,1,299.0,0.05,120.0
+LINE00136,ORD00068,2026-08-30,C002,Diya Verma,diya@example.com,P103,Desk Lamp,Home,Delhi,Corporate,1,649.0,0.05,350.0
+LINE00137,ORD00069,2025-09-20,C003,Kabir Singh,kabir@example.com,P101,USB-C Cable,Electronics,Jaipur,Consumer,1,249.0,0.05,95.0
+LINE00138,ORD00069,2025-11-07,C012,Kiara Nair,kiara@example.com,P101,USB-C Cable,Electronics,Chennai,Corporate,2,249.0,0.15,95.0
+LINE00139,ORD00070,2026-03-04,C009,Vivaan Joshi,vivaan@example.com,P100,Wireless Mouse,Electronics,Noida,Corporate,2,799.0,0.2,420.0
+LINE00140,ORD00070,2025-07-23,C006,Anaya Rao,anaya@example.com,P105,Yoga Mat,fitness,Bengaluru,Consumer,5,549.0,0,270.0
+LINE00141,ORD00071,2026-06-29,C006,Anaya Rao,anaya@example.com,P105,Yoga Mat,Fitness,Bengaluru,Consumer,3,549.0,0.15,270.0
+LINE00142,ORD00071,2026-01-11,C002,Diya Verma,diya@example.com,P103,Desk Lamp,Home,Delhi,Corporate,2,649.0,0.15,350.0
+LINE00143,ORD00072,2026-04-30,C004,Meera Gupta,MEERA@EXAMPLE.COM,P104,Steel Bottle,Home,Pune,Small Business,6,399.0,0.15,180.0
+LINE00144,ORD00072,2026-09-15,C010,Myra Kapoor,myra@example.com,P103,Desk Lamp,Home,chandigarh,Consumer,1,649.0,0,350.0
+LINE00145,ORD00073,2026-05-09,C011,Arjun Mehta,arjun@example.com,P105,Yoga Mat,Fitness,Ahmedabad,Small Business,6,549.0,0.05,270.0
+LINE00146,ORD00073,2025-12-22,C001,Aarav Sharma,aarav@example.com,P101,USB-C Cable,Electronics,Chandigarh,Consumer,6,249.0,0.05,95.0
+LINE00147,ORD00074,2025-11-22,C010,Myra Kapoor,myra@example.com,P100,Wireless Mouse,electronics,Chandigarh,Consumer,2,799.0,0,420.0
+LINE00148,ORD00074,2026-03-25,C011,Arjun Mehta,arjun@example.com,P104,Steel Bottle,Home,Ahmedabad,Small Business,3,399.0,0,180.0
+LINE00149,ORD00075,2026-03-15,C004,Meera Gupta,meera@example.com,P102,Notebook Pack,Stationery,Pune,Small Business,3,159.0,0.15,72.0
+LINE00150,ORD00075,2026-02-07,C008,Sara Khan,sara@example.com,P101,USB-C Cable,Electronics,Hyderabad,Consumer,5,249.0,0.2,95.0
+LINE00004,ORD00002,2025-12-02,C005,Ishaan Patel,ishaan@example.com,P105,Yoga Mat,Fitness,Mumbai,Corporate,5,549.0,0.15,270.0
+LINE_BAD_QTY,ORD00006,2026-02-07,C011,Arjun Mehta,ARJUN@EXAMPLE.COM,P105,Yoga Mat,Fitness,Ahmedabad,Small Business,-3,549.0,0.15,270.0
+LINE_BAD_DATE,ORD00011,not-a-date,C004,Meera Gupta,meera@example.com,P105,Yoga Mat,fitness,Pune,Small Business,2,549.0,0.1,270.0
+LINE_BAD_DISCOUNT,ORD00016,2025-07-31,C001,Aarav Sharma,aarav@example.com,P106,Resistance Bands,Fitness,Chandigarh,Consumer,4,299.0,1.4,120.0
+LINE_BAD_COST,ORD00021,2025-07-14,C005,Ishaan Patel,ishaan@example.com,P103,Desk Lamp,Home,Mumbai,Corporate,2,649.0,0,-10
+LINE_BAD_PRODUCT,ORD00026,2026-04-10,C005,Ishaan Patel,ishaan@example.com,,Ball Pen Set,Stationery,Mumbai,Corporate,2,99.0,0.15,32.0

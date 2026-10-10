@@ -1,0 +1,27 @@
+# Secrets and local environments
+.env
+.env.*
+!.env.example
+.venv/
+__pycache__/
+.pytest_cache/
+*.py[cod]
+
+# Generated outputs
+logs/*.log
+reports/data_quality_report.json
+reports/rejected_rows.csv
+data/processed/*
+!data/processed/.gitkeep
+
+# Spark output
+spark-warehouse/
+metastore_db/
+
+# Python packaging / editor files
+*.egg-info/
+.vscode/
+.idea/
+
+# Spark local artifacts
+spark_error.log
